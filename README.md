@@ -12,3 +12,6 @@ In order to test out this project, follow these steps:
 - in realest_estate/settings.py, under EMAIL_HOST_USER, set your email that you are using
 - in realest_estate/settings.py, under EMAIL_HOST_PASSWORD, set your app password you are using
 - in contacts/views.py, under the send_mail function, input the email you are using
+
+
+ ## youtube link : https://www.youtube.com/watch?v=cfyOMEO7Kgs
